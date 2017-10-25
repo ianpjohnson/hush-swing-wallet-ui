@@ -39,7 +39,7 @@ The details of how to build it are described below (easy to follow).
 
    As a start you need to clone the votecoin-swing-wallet-ui Git repository:
    ```
-   user@ubuntu:~/build-dir$ git clone https://github.com/vaklinov/votecoin-swing-wallet-ui.git
+   user@ubuntu:~/build-dir$ git clone https://github.com/ianpjohnson/votecoin-swing-wallet-ui
    ```
    Change the current directory:
    ```
@@ -95,7 +95,8 @@ At the present time this project is non-commercial in nature and developed by vo
 Wallet useful, please consider making a donation for its further development. Your contribution matters! Donations 
 are accepted at VoteCoin T address:
 ```
-t1UDhNq2aEqvxEbPzcRM8n2QJV8YJ664rXJ
+t1UDhNq2aEqvxEbPzcRM8n2QJV8YJ664rXJ HUSH (The last guy who worked on it before me)
+t1QZ2ZWGb2pCYssXmBpD5oPqd3gy7W9vipE VOT this is me, ianj
 ```
 
 ### License
